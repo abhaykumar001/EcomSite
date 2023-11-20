@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3118bda.css",
+    "main.js": "/static/js/main.8315c583.js",
+    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.327fc96c69866b559c86.webp",
+    "static/media/newArrThree.webp": "/static/media/newArrThree.327fc96c69866b559c86.webp",
+    "static/media/spfThree.webp": "/static/media/spfThree.327fc96c69866b559c86.webp",
+    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.0d7997807e1a7bceefef.webp",
+    "static/media/newArrFour.webp": "/static/media/newArrFour.0d7997807e1a7bceefef.webp",
+    "static/media/spfFour.webp": "/static/media/spfFour.0d7997807e1a7bceefef.webp",
+    "static/media/saleImgOne.webp": "/static/media/saleImgOne.2e019e248a288d38f5f9.webp",
+    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.c85bc8e2a627a6447c15.webp",
+    "static/media/newArrTwo.webp": "/static/media/newArrTwo.c85bc8e2a627a6447c15.webp",
+    "static/media/spfTwo.webp": "/static/media/spfTwo.c85bc8e2a627a6447c15.webp",
+    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.2c596402f95883cda37a.webp",
+    "static/media/newArrOne.webp": "/static/media/newArrOne.2c596402f95883cda37a.webp",
+    "static/media/spfOne.webp": "/static/media/spfOne.2c596402f95883cda37a.webp",
+    "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.f2b26196ca46e9f54999.webp",
+    "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.2f7f42e54cb49bc37c49.webp",
+    "static/media/bannerImgOne.webp": "/static/media/bannerImgOne.bd8b945b3220b4d9ff29.webp",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.110c767ec44f7cd2ccb3.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.612c2cbb474192280618.webp",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.612c2cbb474192280618.webp",
+    "static/media/logoLight.png": "/static/media/logoLight.6508459ece3969bcc509.png",
+    "static/media/orebiLogo.png": "/static/media/orebiLogo.6508459ece3969bcc509.png",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "index.html": "/index.html",
+    "main.a3118bda.css.map": "/static/css/main.a3118bda.css.map",
+    "main.8315c583.js.map": "/static/js/main.8315c583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3118bda.css",
+    "static/js/main.8315c583.js"
+  ]
+}
